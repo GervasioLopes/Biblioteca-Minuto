@@ -1,0 +1,95 @@
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.exe
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.deps.json
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.runtimeconfig.json
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.dll
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.pdb
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Properties.Resources.resources
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.csproj.GenerateResource.cache
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.AssemblyInfoInputs.cache
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.AssemblyInfo.cs
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.csproj.CoreCompileInputs.cache
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.dll
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\refint\Biblioteca minuto.dll
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.pdb
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.genruntimeconfig.cache
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\ref\Biblioteca minuto.dll
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form1_Home.resources
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\zu\Biblioteca minuto.resources.dll
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form2.resources
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form3_Consulta.resources
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form2.zu.resources
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form3_Consulta.zu.resources
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\zu\Biblioteca minuto.resources.dll
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form1_Load.resources
+D:\Graduacao_Analise_de_Desenvolvimento_de_Sistemas\Algoritmos\Algoritmos_C#\programas\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form1.resources
+C:\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.exe
+C:\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.deps.json
+C:\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.runtimeconfig.json
+C:\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.dll
+C:\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.pdb
+C:\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\zu\Biblioteca minuto.resources.dll
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form1_Home.resources
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form3_Consulta.resources
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Properties.Resources.resources
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form3_Consulta.zu.resources
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.csproj.GenerateResource.cache
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.AssemblyInfoInputs.cache
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.AssemblyInfo.cs
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.csproj.CoreCompileInputs.cache
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\zu\Biblioteca minuto.resources.dll
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.dll
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\refint\Biblioteca minuto.dll
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.pdb
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.genruntimeconfig.cache
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\ref\Biblioteca minuto.dll
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form1_inicio.resources
+C:\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Livrosjnl.resources
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.exe
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.deps.json
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.runtimeconfig.json
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.dll
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.pdb
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\zu\Biblioteca minuto.resources.dll
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form1_Home.resources
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form1_inicio.resources
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form3_Consulta.resources
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Livrosjnl.resources
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Properties.Resources.resources
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form3_Consulta.zu.resources
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.csproj.GenerateResource.cache
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.GeneratedMSBuildEditorConfig.editorconfig
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.AssemblyInfoInputs.cache
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.AssemblyInfo.cs
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.csproj.CoreCompileInputs.cache
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\zu\Biblioteca minuto.resources.dll
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.dll
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\refint\Biblioteca minuto.dll
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.pdb
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.genruntimeconfig.cache
+G:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\ref\Biblioteca minuto.dll
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.exe
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.deps.json
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.runtimeconfig.json
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.dll
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\Biblioteca minuto.pdb
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\bin\Debug\net6.0-windows\zu\Biblioteca minuto.resources.dll
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form1_Home.resources
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form1_inicio.resources
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form3_Consulta.resources
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Livrosjnl.resources
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Properties.Resources.resources
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca_minuto.Form3_Consulta.zu.resources
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.csproj.GenerateResource.cache
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.GeneratedMSBuildEditorConfig.editorconfig
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.AssemblyInfoInputs.cache
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.AssemblyInfo.cs
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.csproj.CoreCompileInputs.cache
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\zu\Biblioteca minuto.resources.dll
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.dll
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\refint\Biblioteca minuto.dll
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.pdb
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Biblioteca minuto.genruntimeconfig.cache
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\ref\Biblioteca minuto.dll
+D:\BKP_user\bkp_user_2024\Biblioteca minuto\Biblioteca minuto\obj\Debug\net6.0-windows\Bibliote.79E83029.Up2Date

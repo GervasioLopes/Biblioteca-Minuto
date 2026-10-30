@@ -1,0 +1,79 @@
+{
+  "version": 4,
+  "targets": {
+    "net6.0-windows": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0-windows": []
+  },
+  "packageFolders": {
+    "C:\\Users\\GERVASIO-DESKTOP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\BKP_user\\bkp_user_2024\\Biblioteca minuto\\Biblioteca minuto\\Biblioteca minuto.csproj",
+      "projectName": "Biblioteca minuto",
+      "projectPath": "D:\\BKP_user\\bkp_user_2024\\Biblioteca minuto\\Biblioteca minuto\\Biblioteca minuto.csproj",
+      "packagesPath": "C:\\Users\\GERVASIO-DESKTOP\\.nuget\\packages\\",
+      "outputPath": "D:\\BKP_user\\bkp_user_2024\\Biblioteca minuto\\Biblioteca minuto\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\GERVASIO-DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows": {
+          "framework": "net6.0-windows7.0",
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net6.0-windows": {
+        "framework": "net6.0-windows7.0",
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
