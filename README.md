@@ -4,6 +4,9 @@ Aplicação desktop desenvolvida em **C# e Windows Forms**, com o objetivo de pr
 
 O projeto simula um sistema simples de gerenciamento de biblioteca, permitindo cadastrar, consultar, pesquisar e remover registros de livros por meio de uma interface gráfica.
 
+<img width="462" height="300" alt="BibliotecaMinuto" src="https://github.com/user-attachments/assets/f70b52e2-ab94-4b18-8e93-148d318f3e57" />
+
+
 ## 🖥️ Tecnologias utilizadas
 
 - **C#** — linguagem de programação.
